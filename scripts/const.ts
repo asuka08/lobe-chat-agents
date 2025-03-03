@@ -35,20 +35,21 @@ export const githubHomepage = 'https://github.com/lobehub/lobe-chat-agents';
 export const readmeSplit = '<!-- AWESOME PROMPTS -->';
 
 export const category = [
-  'academic',
-  'career',
-  'copywriting',
-  'design',
-  'education',
-  'emotions',
-  'entertainment',
-  'games',
-  'general',
-  'life',
-  'marketing',
-  'office',
-  'programming',
-  'translation',
+  'General',
+  'Copywriting',
+  'Strategy', 
+  'Marketing',
+  'Advertising',
+  'Personnel',
+  'Administration',
+  'Finance',
+  'Legal',
+  'Operations',
+  'Technology',
+  'Education',
+  'Images',
+  'Videos',
+  'Entertainment',
 ];
 
 export { default as config } from '../.i18nrc.js';
