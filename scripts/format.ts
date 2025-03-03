@@ -95,7 +95,7 @@ class Formatter {
           await this.formatJSON(file.name);
         }
       },
-      { concurrency: 5 },
+      { concurrency: 2 },
     );
     consola.success(`format success`);
   };
