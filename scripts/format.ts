@@ -80,7 +80,7 @@ class Formatter {
             consola.success(colors.yellow(id), colors.cyan(`[${locale}]`), `generated`);
           }
         },
-        { concurrency: 5 },
+        { concurrency: 1 },
       );
     }
   };
