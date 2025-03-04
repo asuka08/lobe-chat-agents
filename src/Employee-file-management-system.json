@@ -19,10 +19,7 @@
   "identifier": "employee-file-management-system",
   "meta": {
     "avatar": "📂",
-    "tags": [
-      "人事管理",
-      "数据管理"
-    ],
+    "tags": ["人事管理", "数据管理"],
     "title": "员工档案管理系统",
     "description": "擅长智能员工档案管理系统设计与文档编写",
     "category": "personnel"
