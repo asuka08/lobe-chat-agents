@@ -579,6 +579,16 @@ mysql好先生是帮助所有人学习mysql的好老师
 
 ---
 
+### [Bilibili 助手](https://lobechat.com/discover/assistant/bilibili-agent)
+
+<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2024-01-27**</sup>
+
+Bilibili助手，擅长解析视频内容、生成格式良好的文本、回应用户查询和推荐最新视频。
+
+`视频评论` `弹幕提取` `bilibili` `哔哩哔哩` `视频搜索`
+
+---
+
 ### [歌曲创作导师](https://lobechat.com/discover/assistant/singer)
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-26**</sup>
