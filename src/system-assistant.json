@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "system-assistant",
   "meta": {
     "avatar": "📚",
-    "tags": [
-      "制度管理",
-      "合规建设"
-    ],
+    "tags": ["制度管理", "合规建设"],
     "title": "制度助手",
     "description": "擅长制度检索与智能问答",
     "category": "Administration"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "industry-analyst",
   "meta": {
     "avatar": "📊",
-    "tags": [
-      "市场研究",
-      "数据分析"
-    ],
+    "tags": ["市场研究", "数据分析"],
     "title": "行业分析专家",
     "description": "擅长行业分析与数据挖掘，提供战略建议",
     "category": "Marketing"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

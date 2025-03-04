@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "event-planning-assistant",
   "meta": {
     "avatar": "🎉",
-    "tags": [
-      "活动管理",
-      "项目策划"
-    ],
+    "tags": ["活动管理", "项目策划"],
     "title": "活动策划助手",
     "description": "擅长活动策划与管理，提供高效解决方案",
     "category": "Administration"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

@@ -77,13 +77,13 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS --> 
+<!-- AWESOME PROMPTS -->
 
-### [PPT制作大师](https://lobechat.com/discover/assistant/ppt-maker)
+### [PPT 制作大师](https://lobechat.com/discover/assistant/ppt-maker)
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
 
-擅长高质量PPT的快速制作和优化
+擅长高质量 PPT 的快速制作和优化
 
 `设计创意` `内容策划`
 
@@ -113,7 +113,7 @@
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
 
-高级合同管理AI专家，具备法学博士知识与实践经验。
+高级合同管理 AI 专家，具备法学博士知识与实践经验。
 
 `合同管理` `档案管理`
 
@@ -229,7 +229,7 @@
 
 ---
 
-### [Python智匠](https://lobechat.com/discover/assistant/yunchat)
+### [Python 智匠](https://lobechat.com/discover/assistant/yunchat)
 
 <sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>
 
@@ -253,13 +253,13 @@
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-10-27**</sup>
 
-擅长UI/UX设计与Logo创作
+擅长 UI/UX 设计与 Logo 创作
 
 `ui-ux设计` `logo设计` `用户需求` `交互设计` `工具使用`
 
 ---
 
-### [会议助手v1.0](https://lobechat.com/discover/assistant/meeting)
+### [会议助手 v1.0](https://lobechat.com/discover/assistant/meeting)
 
 <sup>By **[@houhoufm](https://github.com/houhoufm)** on **2024-09-24**</sup>
 
@@ -309,11 +309,11 @@
 
 ---
 
-### [Excel公式大师](https://lobechat.com/discover/assistant/excel-formula-master)
+### [Excel 公式大师](https://lobechat.com/discover/assistant/excel-formula-master)
 
 <sup>By **[@SLKun](https://github.com/SLKun)** on **2024-09-23**</sup>
 
-Excel公式大师
+Excel 公式大师
 
 `excel` `公式` `解答`
 
@@ -353,7 +353,7 @@ Nutri Info 是一个由 AI 驱动的营养助手，分析食品图像和营养�
 
 <sup>By **[@XHB-111](https://github.com/XHB-111)** on **2024-09-23**</sup>
 
-史上最强AI洗稿提示词！一分钟完成暴力洗稿，仿写公众号文章，打造头条文章生产线，b站视频脚本生成，小红书文案撰写，网文写作优化，润色报告、论文、翻译文本，大规模批量生成SEO文章…
+史上最强 AI 洗稿提示词！一分钟完成暴力洗稿，仿写公众号文章，打造头条文章生产线，b 站视频脚本生成，小红书文案撰写，网文写作优化，润色报告、论文、翻译文本，大规模批量生成 SEO 文章…
 
 `写作` `改写` `对话` `文案`
 
@@ -379,11 +379,11 @@ Nutri Info 是一个由 AI 驱动的营养助手，分析食品图像和营养�
 
 ---
 
-### [健身AI教练](https://lobechat.com/discover/assistant/ai-trainer)
+### [健身 AI 教练](https://lobechat.com/discover/assistant/ai-trainer)
 
 <sup>By **[@andreasvikke](https://github.com/andreasvikke)** on **2024-09-19**</sup>
 
-专注于个性化计划、肌肉目标、形态指导、进度追踪、激励和虚拟现实训练的AI锻炼助手。
+专注于个性化计划、肌肉目标、形态指导、进度追踪、激励和虚拟现实训练的 AI 锻炼助手。
 
 `锻炼助手` `健身` `运动` `训练` `营养`
 
@@ -393,7 +393,7 @@ Nutri Info 是一个由 AI 驱动的营养助手，分析食品图像和营养�
 
 <sup>By **[@李继刚](https://m.okjike.com/users/752D3103-1107-43A0-BA49-20EC29D09E36)** on **2024-09-19**</sup>
 
-擅长用新视角解释汉语词汇 / 说吧, 他们又用哪个词来忽悠你了?
+擅长用新视角解释汉语词汇 / 说吧，他们又用哪个词来忽悠你了？
 
 `编程` `创意写作` `语言表达`
 
@@ -439,31 +439,31 @@ Nutri Info 是一个由 AI 驱动的营养助手，分析食品图像和营养�
 
 ---
 
-### [RO-SCIRAW提示词专家](https://lobechat.com/discover/assistant/rosciraw)
+### [RO-SCIRAW 提示词专家](https://lobechat.com/discover/assistant/rosciraw)
 
 <sup>By **[@kirklin](https://github.com/kirklin)** on **2024-08-06**</sup>
 
-RO-SCIRAW框架是由Kirk Lin开创的提示词方法论，为构建高度精确和高效的提示词提供了一个全新的范式。请输入你要创建的分身信息。
+RO-SCIRAW 框架是由 Kirk Lin 开创的提示词方法论，为构建高度精确和高效的提示词提供了一个全新的范式。请输入你要创建的分身信息。
 
 `提示词框架`
 
 ---
 
-### [MBTI类型测试师](https://lobechat.com/discover/assistant/mbti-1)
+### [MBTI 类型测试师](https://lobechat.com/discover/assistant/mbti-1)
 
 <sup>By **[@ffha](https://github.com/ffha)** on **2024-07-15**</sup>
 
-擅长MBTI类型测试与肖像绘画生成。
+擅长 MBTI 类型测试与肖像绘画生成。
 
 `mbti测试` `问卷设计` `心理学专家` `绘画` `人格肖像`
 
 ---
 
-### [Mysql好先生](https://lobechat.com/discover/assistant/mysql-haoteacher)
+### [Mysql 好先生](https://lobechat.com/discover/assistant/mysql-haoteacher)
 
 <sup>By **[@yayoinoyume](https://github.com/yayoinoyume)** on **2024-06-09**</sup>
 
-mysql好先生是帮助所有人学习mysql的好老师
+mysql 好先生是帮助所有人学习 mysql 的好老师
 
 `mysql` `编程` `学习`
 
@@ -473,7 +473,7 @@ mysql好先生是帮助所有人学习mysql的好老师
 
 <sup>By **[@guoyuh](https://github.com/guoyuh)** on **2024-05-22**</sup>
 
-擅长NGS数据处理和可视化
+擅长 NGS 数据处理和可视化
 
 `生物信息学` `ngs数据处理` `数据可视化`
 
@@ -539,11 +539,11 @@ mysql好先生是帮助所有人学习mysql的好老师
 
 ---
 
-### [Markdown转换专家](https://lobechat.com/discover/assistant/markdown)
+### [Markdown 转换专家](https://lobechat.com/discover/assistant/markdown)
 
 <sup>By **[@guluahljj](https://github.com/guluahljj)** on **2024-03-03**</sup>
 
-擅长使用Markdown语法进行文本结构化和突出重点
+擅长使用 Markdown 语法进行文本结构化和突出重点
 
 `文本结构` `markdown语法` `标题` `列表` `粗体` `引用` `agulu`
 
@@ -553,7 +553,7 @@ mysql好先生是帮助所有人学习mysql的好老师
 
 <sup>By **[@mikelix](https://github.com/mikelix)** on **2024-02-19**</sup>
 
-熟练的顾问，传达史蒂夫·乔布斯、埃隆·马斯克、马云、柏拉图和雷·达里奥的智慧，用于决策审查、判断和建议。
+熟练的顾问，传达史蒂夫・乔布斯、埃隆・马斯克、马云、柏拉图和雷・达里奥的智慧，用于决策审查、判断和建议。
 
 `创新` `智慧` `智囊团` `商业战略`
 
@@ -583,7 +583,7 @@ mysql好先生是帮助所有人学习mysql的好老师
 
 <sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2024-01-27**</sup>
 
-Bilibili助手，擅长解析视频内容、生成格式良好的文本、回应用户查询和推荐最新视频。
+Bilibili 助手，擅长解析视频内容、生成格式良好的文本、回应用户查询和推荐最新视频。
 
 `视频评论` `弹幕提取` `bilibili` `哔哩哔哩` `视频搜索`
 
@@ -593,13 +593,13 @@ Bilibili助手，擅长解析视频内容、生成格式良好的文本、回应
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-26**</sup>
 
-AI 歌手/词曲创作助手：赋能音乐人，提供创意指导和反馈。
+AI 歌手 / 词曲创作助手：赋能音乐人，提供创意指导和反馈。
 
 `ai-助手` `歌手` `词曲创作人` `音乐` `创意过程`
 
 ---
 
-### [ShieldsIO徽章生成器](https://lobechat.com/discover/assistant/shields-io)
+### [ShieldsIO 徽章生成器](https://lobechat.com/discover/assistant/shields-io)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-01-26**</sup>
 
@@ -679,11 +679,11 @@ AI 歌手/词曲创作助手：赋能音乐人，提供创意指导和反馈。
 
 ---
 
-### [SVG流程图解释助手](https://lobechat.com/discover/assistant/svg-flowchart-explanation-assistant)
+### [SVG 流程图解释助手](https://lobechat.com/discover/assistant/svg-flowchart-explanation-assistant)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-01-05**</sup>
 
-SVG流程图解释，输入SVG源代码，解释该流程图
+SVG 流程图解释，输入 SVG 源代码，解释该流程图
 
 `流程图解释` `技术文档编写` `业务知识`
 
@@ -739,11 +739,11 @@ SVG流程图解释，输入SVG源代码，解释该流程图
 
 ---
 
-### [HTTP请求大师](https://lobechat.com/discover/assistant/http-request-master)
+### [HTTP 请求大师](https://lobechat.com/discover/assistant/http-request-master)
 
 <sup>By **[@Igroshka](https://github.com/Igroshka)** on **2023-12-08**</sup>
 
-我支持广泛的自定义) 为了正常工作，请确保下载并启用"网站爬虫"插件！
+我支持广泛的自定义) 为了正常工作，请确保下载并启用 "网站爬虫" 插件！
 
 `http请求` `http` `请求` `网页`
 

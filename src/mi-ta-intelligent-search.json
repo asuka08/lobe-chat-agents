@@ -14,17 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "mi-ta-intelligent-search",
   "meta": {
     "avatar": "🔍",
-    "tags": [
-      "信息检索"
-    ],
+    "tags": ["信息检索"],
     "title": "秘塔智能搜索",
     "description": "擅长网络搜索与信息整理的 AI 助手",
     "category": "General"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

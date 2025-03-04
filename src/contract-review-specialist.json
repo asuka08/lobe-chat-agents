@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "contract-review-specialist",
   "meta": {
     "avatar": "📑",
-    "tags": [
-      "风险管理",
-      "法律合规"
-    ],
+    "tags": ["风险管理", "法律合规"],
     "title": "合同审核专家",
     "description": "擅长合同审核与风险控制建议",
     "category": "Legal"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "invoice-management-specialist",
   "meta": {
     "avatar": "📄",
-    "tags": [
-      "财务管理",
-      "票据管理"
-    ],
+    "tags": ["财务管理", "票据管理"],
     "title": "发票管理专家",
     "description": "擅长发票管理与发票合规",
     "category": "Finance"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

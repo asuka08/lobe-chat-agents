@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "contract-management-specialist",
   "meta": {
     "avatar": "📜",
-    "tags": [
-      "合同管理",
-      "档案管理"
-    ],
+    "tags": ["合同管理", "档案管理"],
     "title": "合同管理专家",
     "description": "高级合同管理AI专家，具备法学博士知识与实践经验。",
     "category": "Legal"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

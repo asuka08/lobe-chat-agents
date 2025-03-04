@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "corporate-panorama-analyst",
   "meta": {
     "avatar": "🔍",
-    "tags": [
-      "企业诊断",
-      "风险管理"
-    ],
+    "tags": ["企业诊断", "风险管理"],
     "title": "企业全景分析师",
     "description": "资深企业分析师，专注全景分析与竞争情报研究",
     "category": "Marketing"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

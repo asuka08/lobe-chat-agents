@@ -14,18 +14,15 @@
     "historyCount": 2,
     "inputTemplate": "{{text}}"
   },
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "technical-scanning-radar",
   "meta": {
     "avatar": "🔭",
-    "tags": [
-      "技术创新",
-      "趋势分析"
-    ],
+    "tags": ["技术创新", "趋势分析"],
     "title": "技术扫描雷达",
     "description": "擅长多领域前沿科技的系统分析与预测",
     "category": "Marketing"
   },
-  "schemaVersion": 1,
-  "createdAt": "2025-03-04"
+  "schemaVersion": 1
 }

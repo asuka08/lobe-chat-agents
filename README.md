@@ -77,13 +77,13 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS --> 
+<!-- AWESOME PROMPTS -->
 
-### [PPT制作大师](https://lobechat.com/discover/assistant/ppt-maker)
+### [PPT 制作大师](https://lobechat.com/discover/assistant/ppt-maker)
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
 
-擅长高质量PPT的快速制作和优化
+擅长高质量 PPT 的快速制作和优化
 
 `设计创意` `内容策划`
 
@@ -113,7 +113,7 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
 
-高级合同管理AI专家，具备法学博士知识与实践经验。
+高级合同管理 AI 专家，具备法学博士知识与实践经验。
 
 `合同管理` `档案管理`
 
