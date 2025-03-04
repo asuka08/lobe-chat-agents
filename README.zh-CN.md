@@ -89,6 +89,16 @@
 
 ---
 
+### [合同审核专家](https://lobechat.com/discover/assistant/contract-review-specialist)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+擅长合同审核与风险控制建议
+
+`风险管理` `法律合规`
+
+---
+
 ### [秘塔智能搜索](https://lobechat.com/discover/assistant/mi-ta-intelligent-search)
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
@@ -129,6 +139,16 @@
 
 ---
 
+### [思维导图大师](https://lobechat.com/discover/assistant/master-of-mind-mapping)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+专业思维导图构建与信息结构化专家
+
+`知识管理` `逻辑梳理`
+
+---
+
 ### [活动策划助手](https://lobechat.com/discover/assistant/event-planning-assistant)
 
 <sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
@@ -136,6 +156,16 @@
 擅长活动策划与管理，提供高效解决方案
 
 `活动管理` `项目策划`
+
+---
+
+### [制度助手](https://lobechat.com/discover/assistant/system-assistant)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+擅长制度检索与智能问答
+
+`制度管理` `合规建设`
 
 ---
 
