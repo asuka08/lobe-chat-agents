@@ -19,10 +19,13 @@
   "identifier": "event-planning-assistant",
   "meta": {
     "avatar": "🎉",
-    "tags": ["活动管理", "项目策划"],
+    "tags": [
+      "活动管理",
+      "项目策划"
+    ],
     "title": "活动策划助手",
     "description": "擅长活动策划与管理，提供高效解决方案",
-    "category": "Administration"
+    "category": "administration"
   },
   "schemaVersion": 1
 }

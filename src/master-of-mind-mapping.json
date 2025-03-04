@@ -19,10 +19,13 @@
   "identifier": "master-of-mind-mapping",
   "meta": {
     "avatar": "🧠",
-    "tags": ["知识管理", "逻辑梳理"],
+    "tags": [
+      "知识管理",
+      "逻辑梳理"
+    ],
     "title": "思维导图大师",
     "description": "专业思维导图构建与信息结构化专家",
-    "category": "General"
+    "category": "general"
   },
   "schemaVersion": 1
 }
