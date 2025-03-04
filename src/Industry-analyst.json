@@ -19,10 +19,13 @@
   "identifier": "industry-analyst",
   "meta": {
     "avatar": "📊",
-    "tags": ["市场研究", "数据分析"],
+    "tags": [
+      "市场研究",
+      "数据分析"
+    ],
     "title": "行业分析专家",
     "description": "擅长行业分析与数据挖掘，提供战略建议",
-    "category": "Marketing"
+    "category": "marketing"
   },
   "schemaVersion": 1
 }

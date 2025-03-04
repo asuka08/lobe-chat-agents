@@ -19,10 +19,13 @@
   "identifier": "system-assistant",
   "meta": {
     "avatar": "📚",
-    "tags": ["制度管理", "合规建设"],
+    "tags": [
+      "制度管理",
+      "合规建设"
+    ],
     "title": "制度助手",
     "description": "擅长制度检索与智能问答",
-    "category": "Administration"
+    "category": "administration"
   },
   "schemaVersion": 1
 }

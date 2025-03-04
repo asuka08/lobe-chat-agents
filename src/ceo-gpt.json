@@ -9,9 +9,15 @@
   "meta": {
     "avatar": "💼",
     "description": "AI mentor trained to advise startup CEOs based on the experiences",
-    "tags": ["entrepreneurship", "consulting", "management", "strategy", "guidance"],
+    "tags": [
+      "entrepreneurship",
+      "consulting",
+      "management",
+      "strategy",
+      "guidance"
+    ],
     "title": "CEO GPT",
-    "category": "Strategy"
+    "category": "strategy"
   },
   "schemaVersion": 1
 }
