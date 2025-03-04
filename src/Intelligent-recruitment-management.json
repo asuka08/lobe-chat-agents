@@ -19,10 +19,7 @@
   "identifier": "intelligent-recruitment-management",
   "meta": {
     "avatar": "🧑‍💻",
-    "tags": [
-      "人才评估",
-      "招聘管理"
-    ],
+    "tags": ["人才评估", "招聘管理"],
     "title": "智能招聘评估专家",
     "description": "擅长智能招聘评估系统设计与文档编写",
     "category": "personnel"

@@ -19,10 +19,7 @@
   "identifier": "contract-management-specialist",
   "meta": {
     "avatar": "📜",
-    "tags": [
-      "合同管理",
-      "档案管理"
-    ],
+    "tags": ["合同管理", "档案管理"],
     "title": "合同管理专家",
     "description": "高级合同管理AI专家，具备法学博士知识与实践经验。",
     "category": "legal"
