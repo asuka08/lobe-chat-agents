@@ -12,7 +12,7 @@
       "top_p": 1
     },
     "enableHistoryCount": true,
-    "historyCount": 2,
+    "historyCount": 3,
     "inputTemplate": "{{text}}"
   },
   "createdAt": "2025-03-05",
